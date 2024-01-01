@@ -2,4 +2,4 @@
 move bin to that folder
 
 
-harmony link: https://github.com/pardeike/Harmony/releases/tag/v2.2.2.0 (get the net48 one, theres a dll there, move it to resources folder.
+harmony link: https://github.com/pardeike/Harmony/releases/tag/v2.2.2.0 (get the net48 one, theres a dll there, move it to resources folder.)
